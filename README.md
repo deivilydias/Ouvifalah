@@ -9,6 +9,7 @@ Plataforma de Beneficio Auditivo.
  - Cadastramento de produtos;
  - Cadastro de profissional;
  - Personalização de servições e valores;
+ - Criador de Logins
  
  O que está sendo feito:
  - Plataforma da para empresa;
