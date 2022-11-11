@@ -16,8 +16,8 @@ Plataforma de Beneficio Auditivo.
  - Pagamentos digitais;
  - Plano mensal para empresas;
  - Definição de preços (para empresas);
- - Financeiro do Profissional
- - 
+ - Financeiro do Profissional;
+ - Processo de avaliação;
 
 ![image](https://user-images.githubusercontent.com/64599514/201234344-3bcfe786-f49b-476a-9dc4-26f0f940a005.png)
 
