@@ -6,6 +6,9 @@ Plataforma de Beneficio Auditivo.
  - Gestão de agenda;
  - Gestão de pagamentos;
  - Site;
+ - Cadastramento de produtos;
+ - Cadastro de profissional;
+ - Personalização de servições e valores;
  
  O que está sendo feito:
  - Plataforma da para empresa;
