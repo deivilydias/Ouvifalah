@@ -13,11 +13,9 @@ Plataforma de Beneficio Auditivo.
  O que está sendo feito:
  - Plataforma da para empresa;
  - Triagem;
- - Pagamentos digitais;
- - Plano mensal para empresas;
  - Definição de preços (para empresas);
- - Financeiro do Profissional;
- - Processo de avaliação;
+ - Financeiro do Profissional (Depende de parceiro)
+ - Processo de avaliação (do atendimento do profissional)
 
 ![image](https://user-images.githubusercontent.com/64599514/201234344-3bcfe786-f49b-476a-9dc4-26f0f940a005.png)
 
