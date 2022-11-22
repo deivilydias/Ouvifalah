@@ -73,4 +73,4 @@ switchMode.addEventListener('change', function () {
 	} else {
 		document.body.classList.remove('dark');
 	}
-})
+}) 
