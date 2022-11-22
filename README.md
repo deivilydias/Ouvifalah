@@ -11,7 +11,7 @@ Plataforma de Beneficio Auditivo.
  - Personalização de servições e valores;
  - Criador de Logins
  
- O que está sendo feito:
+ O que está sendo feito: 
  - Plataforma da para empresa;
  - Triagem;
  - Definição de preços (para empresas);
